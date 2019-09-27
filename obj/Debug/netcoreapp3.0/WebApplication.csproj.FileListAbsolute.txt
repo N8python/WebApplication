@@ -1,0 +1,8 @@
+C:\Users\gaibo\source\repos\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.csprojAssemblyReference.cache
+C:\Users\gaibo\source\repos\WebApplication\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\gaibo\source\repos\WebApplication\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication.StaticWebAssets.xml
+C:\Users\gaibo\source\repos\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gaibo\source\repos\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.RazorAssemblyInfo.cache
+C:\Users\gaibo\source\repos\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.RazorAssemblyInfo.cs
+C:\Users\gaibo\source\repos\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\gaibo\source\repos\WebApplication\obj\Debug\netcoreapp3.0\WebApplication.AssemblyInfo.cs
